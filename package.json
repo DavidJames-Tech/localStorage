@@ -1,0 +1,11 @@
+{
+  "name": "localstoragenode",
+  "version": "0.0.0",
+  "description": "localStorage for node applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James David",
+  "license": "ISC"
+}
