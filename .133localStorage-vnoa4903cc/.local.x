@@ -1,0 +1,1 @@
+"<userprofile, {"username":"James David","email":"davidadakole21@gmail.com"}>""<logdata, {"message":"Krikia log data"}>"
